@@ -50,12 +50,13 @@ To mine with your CPU, click the "Start Mining" button.
 
 
 ## Recursos
-* [Pagina Oficial](https://www.uniqnetwork.io/)
-* [Pool Oficial](http://pool.uniqnetwork.io)
+* [Official Website](https://www.uniqnetwork.io/)
+* [Official Pool](http://pool.uniqnetwork.io)
 
 ## Social COmmunities
 * [Twitter](https://twitter.com/uniq_network)
-* [Telegram (https://t.me/UNIQNetwork)
+* [Telegram](https://t.me/UNIQNetwork)
+* [Discord](https://discord.gg/fgakCd6)
 
 ## License
 GNU General Public License v3.0
