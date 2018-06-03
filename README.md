@@ -49,11 +49,11 @@ To mine with your CPU, click the "Start Mining" button.
 ## Configuration
 
 
-## Recursos
+## Links
 * [Official Website](https://www.uniqnetwork.io/)
 * [Official Pool](http://pool.uniqnetwork.io)
 
-## Social COmmunities
+## Social Communities
 * [Twitter](https://twitter.com/uniq_network)
 * [Telegram](https://t.me/UNIQNetwork)
 * [Discord](https://discord.gg/fgakCd6)
