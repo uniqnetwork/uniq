@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UniQ Wallet
+Comment=UniQ wallet
+Exec=UniQ %U
+Terminal=false
+Type=Application
+Icon=intensecoin
+MimeType=x-scheme-handler/intensecoin;
+Categories=Office;Finance;
